@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello
 
-<!--
-**ViniciusSugawara/ViniciusSugawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Back End activities, developing REST APIs, applying software architectures and making small applications.
+- 🌱 I’m currently studying Spring framework with tools such as Spring JPA, Spring Web and Spring Security, Kotlin for android development
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ViniciusSugawara">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSugawara&theme=github_dark&show_icons=true" />
+</a>
+<a href="https://github.com/ViniciusSugawara">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSugawara&theme=tokyonight" />
+</a>
