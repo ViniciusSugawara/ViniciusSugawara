@@ -6,8 +6,8 @@
 ##
 
 <a href="https://github.com/ViniciusSugawara">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSugawara&theme=github_dark&show_icons=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSugawara&theme=github_dark&show_icons=true" />
 </a>
 <a href="https://github.com/ViniciusSugawara">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSugawara&theme=tokyonight" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSugawara&theme=tokyonight" />
 </a>
